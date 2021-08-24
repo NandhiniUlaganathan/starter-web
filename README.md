@@ -1,4 +1,5 @@
-
+##changes in staging area change"
+###wrking directory
 # 6 hrs course
 
 This repository is for showing how Git and GitHub work
