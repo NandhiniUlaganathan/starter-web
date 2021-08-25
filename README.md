@@ -1,3 +1,4 @@
+###chanes in master automatic merge
 ##changes in staging area change"
 ###wrking directory
 # 6 hrs course
